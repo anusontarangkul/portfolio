@@ -1,7 +1,7 @@
 # Portfolio
 
 Portfolio about myself to apply for jobs!
-[Deployment](https://anusontarangkul.github.io/portfolio/)
+[Deployment](https://anusontarangkul.netlify.app/)
 
 ## Description
 
@@ -11,7 +11,7 @@ This portfolio is used to communicate to others my competencies as a developer. 
 
 ## Installation
 
-Enter in deployment link. [Deployment](https://anusontarangkul.github.io/portfolio/)
+Enter in deployment link. [Deployment](https://anusontarangkul.netlify.app/)
 
 ## Usage
 
